@@ -23,8 +23,11 @@ Understand and analyze Kaggle dataset
 
 [X] Create and issue about a Data Dictionary (see assignment#1)
 
-[ ] Create branch, make edits, then make pull request from main branch
+[ ] Part 5:  Create branch, make edits, then make pull request from main branch
 
+[ ] Part 6:  Project board - create new prject board
+
+[ ] Part 7:  Jupyter Notebook and Markdown practice
 
 ## Data questions
 
